@@ -24,23 +24,23 @@
     * 【方法 1】点击`选择试卷文件夹`按钮选取试卷文件夹，软件将自动选取目录下的`audio.mp3`和`paper.json`。
     * 【方法 2】点击`手动选择音频`和`手动选择试题`按钮手动选取音频和试题。
 
-    ![](./markdown_source/PageStarter.png)
+<img width="676" height="474" alt="PageStarter" src="https://github.com/user-attachments/assets/cd4b4430-423e-491e-89fb-b8d16553445f" />
 
 3. 点击`开始测试`按钮，进入试音。<br>如放音清晰请点击`清晰 完成试音`。
-![](./markdown_source/PageDeviceTesting.png)
+<img width="960" height="540" alt="PageDeviceTesting" src="https://github.com/user-attachments/assets/62b10a0a-251e-48ed-b008-6d3475912b34" />
 
 4. 开始愉快地刷题叭~😜<br>左侧题目界面可以上下滑动；<br>右侧题目标记可以标记有疑惑的题目。
-![](./markdown_source/PageListening.png)
+<img width="960" height="540" alt="PageListening" src="https://github.com/user-attachments/assets/3a9d8dfb-78de-4327-9a17-d0a0f90a7dac" />
 
 5. 点击`结束考试`按钮。<br>软件将自动为您阅卷！
-![](./markdown_source/PageFinish.png)
+<img width="676" height="474" alt="PageFinish" src="https://github.com/user-attachments/assets/8edae957-85e6-4f7e-8bc6-78375b03a90b" />
 
 ### 制作试卷
 
 1. 打开『聪耳慧听』试卷制作工具。
 
 2. 点击`选择音频文件`按钮选取音频。
-![](./markdown_source/TestPaperEditorMain.png)
+<img width="676" height="474" alt="TestPaperEditorMain" src="https://github.com/user-attachments/assets/40a30d6b-ed8a-440f-8fa6-c6a3def3f5b1" />
 
 3. 输入试卷名称。
 
@@ -126,5 +126,6 @@
 |zipp                      |3.23.0|
 
 ### 过去的版本使用过的开发环境
+
 
 ~~想啥呢，没有过去的版本。~~
